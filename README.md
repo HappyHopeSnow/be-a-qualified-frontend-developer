@@ -36,6 +36,8 @@
 * [第2天：井底之蛙](./report/day2.md)
 * [第1天：方法与概念](./report/day1.md)
 
+## 向牛人学习
+- [Bredan Eich：JavaScript之父](expert/Bredan_Eich.md)
 
 ## 目标
 即使不能成为靠谱前端，也能够在两个月内找到自己的差距，能够知道靠谱前端究竟长啥样。
