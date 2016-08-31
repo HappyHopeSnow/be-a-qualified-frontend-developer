@@ -48,7 +48,7 @@
 
 Emmet提供的[快捷键(CheetSheet)](http://docs.emmet.io/cheat-sheet/)基本上可以涵盖了所有的需要的html标签及结构。
 
-![Emmet CheetSheet](images/emmet-cheatsheet.png]
+![Emmet CheetSheet](images/emmet-cheatsheet.png)
 
 ## 建立主页
 下面是主页的第一版，我一共输入了以下内容：
