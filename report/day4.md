@@ -59,23 +59,23 @@ Emmet提供的[快捷键(CheetSheet)](http://docs.emmet.io/cheat-sheet/)基本�
 
 
 
-    &lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"&gt;
-    &lt;html lang="en"&gt;
-    &lt;head&gt;
-      &lt;meta http-equiv="Content-Type" content="text/html;charset=UTF-8"&gt;
-      &lt;link rel="shortcut  icon" type="image/x-icon" href="images/favicon.ico" media="screen"  /&gt; 
-      &lt;title&gt;两个月成为靠谱前端&lt;/title&gt;
-    &lt;/head&gt;
-    &lt;body&gt;
-      &lt;h1&gt;网站内容分类&lt;/h1&gt;
-      &lt;ul&gt;
-        &lt;li&gt;HTML&lt;/li&gt;
-        &lt;li&gt;CSS&lt;/li&gt;
-        &lt;li&gt;JavaScript&lt;/li&gt;
-        &lt;li&gt;资源&lt;/li&gt;
-        &lt;li&gt;关于我&lt;/li&gt;
-      &lt;/ul&gt;
-    &lt;/body&gt;
+    &lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"&gt;<br/>
+    &lt;html lang="en"&gt;<br/>
+    &lt;head&gt;<br/>
+      &lt;meta http-equiv="Content-Type" content="text/html;charset=UTF-8"&gt;<br/>
+      &lt;link rel="shortcut  icon" type="image/x-icon" href="images/favicon.ico" media="screen"  /&gt; <br/>
+      &lt;title&gt;两个月成为靠谱前端&lt;/title&gt;<br/>
+    &lt;/head&gt;<br/>
+    &lt;body&gt;<br/>
+      &lt;h1&gt;网站内容分类&lt;/h1&gt;<br/>
+      &lt;ul&gt;<br/>
+        &lt;li&gt;HTML&lt;/li&gt;<br/>
+        &lt;li&gt;CSS&lt;/li&gt;<br/>
+        &lt;li&gt;JavaScript&lt;/li&gt;<br/>
+        &lt;li&gt;资源&lt;/li&gt;<br/>
+        &lt;li&gt;关于我&lt;/li&gt;<br/>
+      &lt;/ul&gt;<br/>
+    &lt;/body&gt;<br/>
     &lt;/html&gt;
 
 
