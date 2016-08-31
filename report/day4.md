@@ -58,29 +58,31 @@ Emmet提供的[快捷键(CheetSheet)](http://docs.emmet.io/cheat-sheet/)基本�
 - 在 `<body>` 中间输入  `ul>li*5` ，然后填入分类内容
 
 
-	<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-	<html lang="en">
-	<head>
-	  <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-	  <link rel="shortcut  icon" type="image/x-icon" href="images/favicon.ico" media="screen"  /> 
-	  <title>两个月成为靠谱前端</title>
-	</head>
-	<body>
-	  <h1>网站内容分类</h1>
-	  <ul>
-	    <li>HTML</li>
-	    <li>CSS</li>
-	    <li>JavaScript</li>
-	    <li>资源</li>
-	    <li>关于我</li>
-	  </ul>
-	</body>
-	</html>
+
+    &lt;!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"&gt;
+    &lt;html lang="en"&gt;
+    &lt;head&gt;
+      &lt;meta http-equiv="Content-Type" content="text/html;charset=UTF-8"&gt;
+      &lt;link rel="shortcut  icon" type="image/x-icon" href="images/favicon.ico" media="screen"  /&gt; 
+      &lt;title&gt;两个月成为靠谱前端&lt;/title&gt;
+    &lt;/head&gt;
+    &lt;body&gt;
+      &lt;h1&gt;网站内容分类&lt;/h1&gt;
+      &lt;ul&gt;
+        &lt;li&gt;HTML&lt;/li&gt;
+        &lt;li&gt;CSS&lt;/li&gt;
+        &lt;li&gt;JavaScript&lt;/li&gt;
+        &lt;li&gt;资源&lt;/li&gt;
+        &lt;li&gt;关于我&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/body&gt;
+    &lt;/html&gt;
+
 
 保存完毕。
 
 ## Github Desktop
-对Github命令行不熟悉的朋友，可以像我一样*_* 用Github Desktop图形化工具。
+对Github命令行不熟悉的朋友，可以像我一样\*_\* 用Github Desktop图形化工具。
 
 ### 克隆(clone)项目到本地
 ![Github Desktop Clone](images/github-desktop-clone.png)
