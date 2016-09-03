@@ -33,10 +33,29 @@
    - 发现需要学习的新东西
 >
 
+* [第5天：整理，前进](./report/day5.md)
 * [第4天：起步，我的第一个网站](./report/day4.md)
 * [第3天：打通基本概念](./report/day3.md)
 * [第2天：井底之蛙](./report/day2.md)
 * [第1天：方法与概念](./report/day1.md)
+
+## Wiki
+理解Web开发的重要概念：
+
+- 通用
+   - [Web语义化](wiki/semantic-web.md)
+   - [浏览器引擎](wiki/web-browser-engine.md)
+   - [W3C DOM规范](wiki/w3-dom.md)
+   - [搜索引擎优化 SEO](wiki/seo.md)
+- HTML
+   - [W3C HTML规范](wiki/w3-html-specification.md)
+   - [语义化HTML](wiki/semantic-html.md)
+- CSS
+   - [W3C CSS规范](w3-css-specification.md)
+   - [CSS Filter](wiki/css-filter.md)
+- 方法论
+   - [渐进增强](wiki/progressive-enhancement.md)
+   - [表现与内容分离](wiki/separation-of-presentation-and-content.md)
 
 ## 向牛人学习
 - [Bredan Eich：JavaScript之父](expert/Bredan_Eich.md)
