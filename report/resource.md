@@ -54,7 +54,6 @@
 * [MacRabbit - Espresso - The Web Editor](http://macrabbit.com/espresso/)
 * [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
 * [Your Web, documented · WebPlatform.org](https://www.webplatform.org/)
-* [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
 * [Comparison of layout engines (Cascading Style Sheets) - Wikipedia, the free encyclopedia](https://en.wikipedia.org/wiki/Comparison_of_layout_engines_(Cascading_Style_Sheets))
 * [Modernizr: the feature detection library for HTML5/CSS3](https://modernizr.com/)
 * [CSS Syntax Module Level 3](https://www.w3.org/TR/css-syntax-3/)
