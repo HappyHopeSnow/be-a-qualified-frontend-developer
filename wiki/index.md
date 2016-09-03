@@ -4,6 +4,7 @@
 - [Web语义化](./semantic-web.md)
 - [浏览器引擎](./web-browser-engine.md)
 - [W3C DOM规范](./w3-dom.md)
+- [浏览器对象模型 BOM](./bom.md)
 - [搜索引擎优化 SEO](./seo.md)
 
 ## HTML
