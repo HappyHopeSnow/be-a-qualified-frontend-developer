@@ -40,25 +40,14 @@
 * [第1天：方法与概念](./report/day1.md)
 
 ## Wiki
-理解Web开发的重要概念：
+理解Web开发的重要概念，迭代更新对重要概念的理解。  
 
-- 通用
-   - [Web语义化](wiki/semantic-web.md)
-   - [浏览器引擎](wiki/web-browser-engine.md)
-   - [W3C DOM规范](wiki/w3-dom.md)
-   - [搜索引擎优化 SEO](wiki/seo.md)
-- HTML
-   - [W3C HTML规范](wiki/w3-html-specification.md)
-   - [语义化HTML](wiki/semantic-html.md)
-- CSS
-   - [W3C CSS规范](w3-css-specification.md)
-   - [CSS Filter](wiki/css-filter.md)
-- 方法论
-   - [渐进增强](wiki/progressive-enhancement.md)
-   - [表现与内容分离](wiki/separation-of-presentation-and-content.md)
+- [Wiki主页](wiki/index.md)
 
 ## 向牛人学习
-- [Bredan Eich：JavaScript之父](expert/Bredan_Eich.md)
+搜集整理前端牛人的成长历程、博客及最新动态。
+
+- [前端牛人](expert/index.md)
 
 ## 目标
 即使不能成为靠谱前端，也能够在两个月内找到自己的差距，能够知道靠谱前端究竟长啥样。
